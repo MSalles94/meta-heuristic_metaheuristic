@@ -1,0 +1,8 @@
+parameter;value;observation
+test_name;test;name the output file
+n_instance;1;select instance
+pop_size;50;population size
+gen_no_improve;100;n_generation with no improve
+mutating_move;10;% of gene will modify
+mutating_factor;10;% of the gene to transform
+elite_size;20;elite group size      
